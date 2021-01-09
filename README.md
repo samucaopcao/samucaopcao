@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá sou Samuel Macedo, seja bem vindo(a)!!!  😄😄😄 
 
-<!--
-**samucaopcao/samucaopcao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>&emsp;&emsp;Sou tecnólogo em análise e desenvolvimento de sistemas iniciando minha carreira na área de desenvolvimento java.</p>
+
+
+-  🏢 Trabalho como Analista Desenvolvedor Jr 
+-  💪 Atualmente meus esforços tem sido voltados para o desenvolvimento Java, o qual estou iniciando mas com muito empenho! 
+-  🏠 Moro em Barueri - SP , uma bela cidade por sinal.
+-  🤔 Gosto de esportes, praia, video-game e boas músicas. 
+
+<br>
+<br>
+<p align="center"><i>✨"O pessimista vê dificuldade em cada oportunidade; o otimista vê oportunidade em cada dificuldade."✨<i></p><br>
+ <p align="center">Winston Churchill</p>
+
