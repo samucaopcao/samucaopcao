@@ -11,7 +11,7 @@
 -  💏 Sou casado com uma bela esposa e companheira pra toda hora.
 -  🤔 Gosto de esportes, praia, video-game e boas músicas. 
 -  🚧 Ah...sobre meu GitHub, ainda estamos em construção, mas com certeza sairá uma bela obra...
--  👋 Muito obrigado pela visita e volta sempre!
+-  👋 Muito obrigado pela visita e volte sempre!
 
 <br>
 <br>
