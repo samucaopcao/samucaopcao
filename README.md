@@ -7,15 +7,14 @@
 
 -  🏢 Trabalho como Analista Desenvolvedor Jr 
 -  💪 Atualmente meus esforços estão voltados para o desenvolvimento Java, o qual estou iniciando mas com muito empenho! 
--  🏠 Moro em Barueri - SP , uma bela cidade por sinal.
+-  🏠 Moro em Barueri - SP , uma linda cidade por sinal.
+-  💏 Sou casado com uma bela esposa e companheira pra toda hora.
 -  🤔 Gosto de esportes, praia, video-game e boas músicas. 
--  🚧 Ah...Ainda estamos em construção, mas com certeza sairá uma bela obra...
-
-
-
+-  🚧 Ah...sobre meu GitHub, ainda estamos em construção, mas com certeza sairá uma bela obra...
+-  👋 Muito obrigado pela visita.
 
 <br>
 <br>
-<p align="center"><i>✨"O pessimista vê dificuldade em cada oportunidade; o otimista vê oportunidade em cada dificuldade."✨<i></p><br>
- <p align="center">Winston Churchill</p>
+<p align="center">✨"Somente se aproxima da perfeição quem a procura com constância, sabedoria e, sobretudo humildade."✨</p><br>
+ <p align="center"><i>Jigoro Kano Sensei<i></p>
 
