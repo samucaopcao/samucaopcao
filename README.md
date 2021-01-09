@@ -2,7 +2,7 @@
 
 ![naruto-icon-14693](https://user-images.githubusercontent.com/59769434/104082140-627a4000-5212-11eb-9bcd-90ca4f3a7f9f.png)
 
-<p>&emsp;&emsp;<strong>Sou tecnólogo em análise e desenvolvimento de sistemas iniciando minha carreira na área de desenvolvimento java.</strong></p>
+<p>&emsp;&emsp;<strong>Sou tecnólogo em análise e desenvolvimento de sistemas iniciando minha carreira na área de desenvolvimento Java.</strong></p>
 
 
 -  🏢 Trabalho como Analista Desenvolvedor Jr 
