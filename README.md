@@ -1,6 +1,6 @@
 ### Olá sou Samuel Macedo, seja bem vindo(a)!!!  😄😄😄 
 
-
+![naruto-icon-14693](https://user-images.githubusercontent.com/59769434/104082140-627a4000-5212-11eb-9bcd-90ca4f3a7f9f.png)
 
 <p>&emsp;&emsp;Sou tecnólogo em análise e desenvolvimento de sistemas iniciando minha carreira na área de desenvolvimento java.</p>
 
