@@ -5,7 +5,7 @@
 <p>&emsp;&emsp;<strong>Sou tecnólogo em análise e desenvolvimento de sistemas iniciando minha carreira na área de desenvolvimento Java.</strong></p>
 
 
--  🏢 Trabalho como Analista Desenvolvedor Jr 
+-  🏢 Trabalho como Analista Desenvolvedor 
 -  💪 Atualmente meus esforços estão voltados para o desenvolvimento Java, o qual estou iniciando mas com muito empenho! 
 -  🏠 Moro em Barueri - SP , uma linda cidade por sinal.
 -  💏 Sou casado com uma bela esposa e companheira pra toda hora.
