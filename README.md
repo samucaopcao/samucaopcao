@@ -1,6 +1,6 @@
 ### Olá sou Samuel Macedo, seja bem vindo(a)!!!  😄😄😄 
 
-<img align="right" width="300" height="350" src="https://static.wikia.nocookie.net/naruto/images/9/91/Naruto_-_15_anos_%28Render%29.png/revision/latest/scale-to-width-down/320?cb=20190601003114&path-prefix=pt-br">
+<img align="right" width="305" height="312" src="https://media.tenor.com/images/dc0f158606d9ef38b54e2af9e5059488/tenor.gif">
 
 
 <p>&emsp;&emsp;<strong>Sou tecnólogo em análise e desenvolvimento de sistemas iniciando minha carreira na área de desenvolvimento Java.</strong></p>
@@ -10,7 +10,7 @@
 -  💪 Atualmente meus esforços estão voltados para o desenvolvimento Java, o qual estou iniciando mas com muito empenho! 
 -  🏠 Moro em Barueri - SP , uma linda cidade por sinal.
 -  💏 Sou casado com uma bela esposa e companheira pra toda hora.
--  🤔 Gosto de esportes, praia, video-game e boas músicas. 
+-  🤔 Gosto de esportes, praia, video-game, animes e boas músicas. 
 -  🚧 Ah...sobre meu GitHub, ainda estamos em construção, mas com certeza sairá uma bela obra...
 -  👋 Muito obrigado pela visita e volte sempre!
 
