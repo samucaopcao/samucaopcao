@@ -14,8 +14,8 @@
 -  👋 Muito obrigado pela visita e volte sempre!
 <br>
 
-&emsp;Siga-me no Linkedin: <br>
-&emsp;[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-macedo-dos-santos-77751118a)](https://www.linkedin.com/in/samuel-macedo-dos-santos-77751118a) 
+<p align="center"> Siga-me no Linkedin: <br>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-macedo-dos-santos-77751118a)](https://www.linkedin.com/in/samuel-macedo-dos-santos-77751118a)</p> 
 
 <br>
 <br>
