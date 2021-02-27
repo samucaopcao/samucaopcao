@@ -1,6 +1,6 @@
 ### Olá sou Samuel Macedo, seja bem vindo(a)!!!  😄😄😄 
 
-<img align="right" width="300" height="350" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmykombini.com%2Fen%2Fdivers%2F15485-chokkorin-mascot-naruto-shippuden-box-of-6-megahouse-4535123828195.html&psig=AOvVaw3_odxgG-hgZOl93wwlofDj&ust=1614541721401000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjM5-zqiu8CFQAAAAAdAAAAABAD">
+<img align="right" width="300" height="350" src="https://mykombini-ab5a.kxcdn.com/103309-thickbox/chokkorin-mascot-naruto-shippuden-box-of-6-megahouse.jpg">
 
 
 <p>&emsp;&emsp;<strong>Sou tecnólogo em análise e desenvolvimento de sistemas iniciando minha carreira na área de desenvolvimento Java.</strong></p>
