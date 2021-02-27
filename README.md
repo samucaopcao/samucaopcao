@@ -14,8 +14,8 @@
 -  🚧 Ah...sobre meu GitHub, ainda estamos em construção, mas com certeza sairá uma bela obra...
 -  👋 Muito obrigado pela visita e volte sempre!
 
- Siga-me no Linkedin: <br>
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-macedo-dos-santos-77751118a)]   (https://www.linkedin.com/in/samuel-macedo-dos-santos-77751118a)
+   Siga-me no Linkedin: <br>
+   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-macedo-dos-santos-77751118a)](https://www.linkedin.com/in/samuel-macedo-dos-santos-77751118a)
 <br>
 <br>
 <p align="center">✨"Somente se aproxima da perfeição quem a procura com constância, sabedoria e, sobretudo humildade."✨</p><br>
