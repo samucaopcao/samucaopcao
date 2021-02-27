@@ -1,6 +1,6 @@
 ### Olá sou Samuel Macedo, seja bem vindo(a)!!!  😄😄😄 
 
-<img align="right" width="300" height="350" src="https://mykombini-ab5a.kxcdn.com/103309-thickbox/chokkorin-mascot-naruto-shippuden-box-of-6-megahouse.jpg">
+<img align="right" width="300" height="350" src="https://static.wikia.nocookie.net/naruto/images/9/91/Naruto_-_15_anos_%28Render%29.png/revision/latest/scale-to-width-down/320?cb=20190601003114&path-prefix=pt-br">
 
 
 <p>&emsp;&emsp;<strong>Sou tecnólogo em análise e desenvolvimento de sistemas iniciando minha carreira na área de desenvolvimento Java.</strong></p>
