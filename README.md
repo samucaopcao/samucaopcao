@@ -3,8 +3,9 @@
 <img align="right" width="305" height="312" src="https://media.tenor.com/images/dc0f158606d9ef38b54e2af9e5059488/tenor.gif">
 
 
+<br><br>
 <p>&emsp;<strong>Sou tecnólogo em análise e desenvolvimento de sistemas iniciando minha carreira na área de desenvolvimento Java.</strong></p>
-
+<br>
 
 -  🏢 Trabalho como Analista Desenvolvedor 
 -  💪 Atualmente meus esforços estão voltados para o desenvolvimento Java, o qual estou iniciando mas com muito empenho! 
@@ -17,7 +18,7 @@
 <br>
    
    Siga-me no Linkedin: <br>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samucaopcao)](https://www.linkedin.com/in/samucaopcao)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-macedo-dos-santos-77751118a)](https://www.linkedin.com/in/samuel-macedo-dos-santos-77751118a)
    
 <br>
 <br>
