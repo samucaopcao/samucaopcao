@@ -9,7 +9,7 @@
 -  💪 Atualmente meus esforços estão voltados para o desenvolvimento Java, o qual estou iniciando mas com muito empenho! 
 -  🏠 Moro em Barueri - SP , uma linda cidade por sinal.
 -  💏 Sou casado com uma bela esposa e companheira pra toda hora.
--  🤔 Gosto de esportes, praia, video-game, animes e boas músicas. 
+-  🤔 Gosto de esportes, praia, video-game, animes, boas músicas e Judô. 
 -  🚧 Ah...sobre meu GitHub, ainda estamos em construção, mas com certeza sairá uma bela obra...
 -  👋 Muito obrigado pela visita e volte sempre!
 <br>
