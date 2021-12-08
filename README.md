@@ -1,6 +1,6 @@
 ### Olá sou Samuel Macedo, seja bem vindo(a)!!!  😄😄😄 
 
-<img align="right" width="305" height="312" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifs.alphacoders.com%2Fgifs%2Fby_tag%2F22232&psig=AOvVaw3aWWYuPqQoM_zKmhgs52kN&ust=1639089607223000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOiXs-Ki1fQCFQAAAAAdAAAAABAP">
+<img align="right" width="305" height="312" src="  https://media.tenor.com/images/dc0f158606d9ef38b54e2af9e5059488/tenor.gif">
 <br>
 <p>&emsp;<strong>Sou tecnólogo em análise e desenvolvimento de sistemas iniciando minha carreira na área de desenvolvimento Java.</strong></p>
 <br>
