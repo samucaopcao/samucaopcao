@@ -1,6 +1,6 @@
 ### Olá sou Samuel Macedo, seja bem vindo(a)!!!  😄😄😄 
 
-<img align="right" width="305" height="312" src="https://media.tenor.com/images/dc0f158606d9ef38b54e2af9e5059488/tenor.gif">
+<img align="right" width="305" height="312" src="https://i.pinimg.com/originals/7f/ed/c8/7fedc82bbef8d24892073c0bc6434e8d.gif">
  
  ![RYU](https://user-images.githubusercontent.com/59769434/145303561-1a1be1b9-26ce-4151-a5c1-8921cc9aeef1.gif
 <br>
