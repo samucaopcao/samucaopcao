@@ -1,8 +1,6 @@
 ### Olá sou Samuel Macedo, seja bem vindo(a)!!!  😄😄😄 
 
 <img align="right" width="305" height="312" src="https://i.pinimg.com/originals/7f/ed/c8/7fedc82bbef8d24892073c0bc6434e8d.gif">
- 
- ![RYU](https://user-images.githubusercontent.com/59769434/145303561-1a1be1b9-26ce-4151-a5c1-8921cc9aeef1.gif
 <br>
 <p>&emsp;<strong>Sou tecnólogo em análise e desenvolvimento de sistemas iniciando minha carreira na área de desenvolvimento Java.</strong></p>
 <br>
