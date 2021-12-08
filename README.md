@@ -1,6 +1,8 @@
 ### Olá sou Samuel Macedo, seja bem vindo(a)!!!  😄😄😄 
 
-<img align="right" width="305" height="312" src="  https://media.tenor.com/images/dc0f158606d9ef38b54e2af9e5059488/tenor.gif">
+<img align="right" width="305" height="312" src="https://media.tenor.com/images/dc0f158606d9ef38b54e2af9e5059488/tenor.gif">
+ 
+ ![RYU](https://user-images.githubusercontent.com/59769434/145303561-1a1be1b9-26ce-4151-a5c1-8921cc9aeef1.gif
 <br>
 <p>&emsp;<strong>Sou tecnólogo em análise e desenvolvimento de sistemas iniciando minha carreira na área de desenvolvimento Java.</strong></p>
 <br>
