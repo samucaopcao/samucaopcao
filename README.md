@@ -17,11 +17,7 @@
 &emsp;Siga-me no Linkedin: <br>
 &emsp;[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-macedo-dos-santos-77751118a)](https://www.linkedin.com/in/samuel-macedo-dos-santos-77751118a)
 
-
-<a href="https://www.linkedin.com/in/diego-almeida-silva-almeida-945724127"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FFicheiro%3ALinkedIn_Logo.svg&psig=AOvVaw0khULNUQ1_dPe982tJE74k&ust=1641514064618000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCODZr8vqm_UCFQAAAAAdAAAAABAJ" class="media-object  img-responsive img-thumbnail"></a>
-
-
-
+ 
 
 
 
